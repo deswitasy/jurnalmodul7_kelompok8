@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "April",
+       "lastName": "Aprilliani",
+       "gender": "female",
+       "age": 19,
+       "nim": "10302230000252"
+    },
+    {
+       "firstName": "Aisyah",
+       "lastName": "Aisyah",
+       "gender": "female",
+       "age": 20,
+       "nim": "1030223000116"
+    },
+    {
+       "firstName": "Nadya",
+       "lastName": "Aulia Salma",
+       "gender": "female",
+       "age": 19,
+       "nim": "103022300022"
+    }
+  ]
+}
